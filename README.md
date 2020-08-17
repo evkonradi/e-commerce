@@ -14,7 +14,7 @@ Products are associated with tags through many-to-many relationship. Products an
 
 # Functionality of the application - Video
 
-https://drive.google.com/file/d/1bIE-hkkHEhDtsU0iN4ioFhjf9N6y7U5Q/view?usp=sharing
+https://drive.google.com/file/d/11fDNyAmj2zRqzddM2fHlUWQJWdoG6hqJ/view?usp=sharing
 
 # GitHub repository
 
